@@ -28,8 +28,8 @@ Hi, I'm Akshay Rajput, A Student and Learner 🚀 from Boisar,Maharashtra, India
 
   <img align="right" alt="GIF" src="https://github.com/ga7axy/ga7axy/blob/main/resources/coder.gif" width="400" />
   
-- 🔭 I’m currently working on a personal projects.
-- 🌱 I’m currently learning Data-Structures and Algorithms.
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently self-learning Data-Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: akshaymrajput@gmail.com
 - 😄 Pronouns: He/Him
